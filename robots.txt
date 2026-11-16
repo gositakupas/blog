@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://gositakupas.github.io/blog/sitemap.xml
